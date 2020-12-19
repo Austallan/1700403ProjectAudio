@@ -11,10 +11,31 @@
 
 namespace AK
 {
+    namespace EVENTS
+    {
+        static const AkUniqueID FOOTSTEP = 1866025847U;
+    } // namespace EVENTS
+
+    namespace SWITCHES
+    {
+        namespace FLOORTYPE
+        {
+            static const AkUniqueID GROUP = 1808717673U;
+
+            namespace SWITCH
+            {
+                static const AkUniqueID GRASS = 4248645337U;
+                static const AkUniqueID STONE = 1216965916U;
+                static const AkUniqueID WOOD = 2058049674U;
+            } // namespace SWITCH
+        } // namespace FLOORTYPE
+
+    } // namespace SWITCHES
+
     namespace BANKS
     {
         static const AkUniqueID INIT = 1355168291U;
-        static const AkUniqueID NEW_SOUNDBANK = 4072029455U;
+        static const AkUniqueID MAIN = 3161908922U;
     } // namespace BANKS
 
     namespace BUSSES

@@ -16,10 +16,112 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="4072029455" Language="SFX" Hash="2442070556">
-			<ObjectPath>\SoundBanks\Default Work Unit\New_SoundBank</ObjectPath>
-			<ShortName>New_SoundBank</ShortName>
-			<Path>New_SoundBank.bnk</Path>
+		<SoundBank Id="3161908922" Language="SFX" Hash="462190832">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1866025847" Name="footstep" ObjectPath="\Events\Default Work Unit\footstep" DurationType="OneShot" DurationMin="0.301792" DurationMax="1.500318"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="44771140" Language="SFX">
+					<ShortName>StoneSteps\StoneStep5.wav</ShortName>
+					<Path>SFX\StoneSteps\StoneStep5_10C4C929.wem</Path>
+				</File>
+				<File Id="109527155" Language="SFX">
+					<ShortName>GrassSteps\GrassStep5.wav</ShortName>
+					<Path>SFX\GrassSteps\GrassStep5_10C4C929.wem</Path>
+				</File>
+				<File Id="151181638" Language="SFX">
+					<ShortName>WoodSteps\WoodStep4.wav</ShortName>
+					<Path>SFX\WoodSteps\WoodStep4_10C4C929.wem</Path>
+				</File>
+				<File Id="179137262" Language="SFX">
+					<ShortName>GrassSteps\GrassStep2.wav</ShortName>
+					<Path>SFX\GrassSteps\GrassStep2_10C4C929.wem</Path>
+				</File>
+				<File Id="180818682" Language="SFX">
+					<ShortName>WoodSteps\WoodStep7.wav</ShortName>
+					<Path>SFX\WoodSteps\WoodStep7_10C4C929.wem</Path>
+				</File>
+				<File Id="207316730" Language="SFX">
+					<ShortName>WoodSteps\WoodStep3.wav</ShortName>
+					<Path>SFX\WoodSteps\WoodStep3_10C4C929.wem</Path>
+				</File>
+				<File Id="253273556" Language="SFX">
+					<ShortName>GrassSteps\GrassStep6.wav</ShortName>
+					<Path>SFX\GrassSteps\GrassStep6_10C4C929.wem</Path>
+				</File>
+				<File Id="430592050" Language="SFX">
+					<ShortName>GrassSteps\GrassStep7.wav</ShortName>
+					<Path>SFX\GrassSteps\GrassStep7_10C4C929.wem</Path>
+				</File>
+				<File Id="431812448" Language="SFX">
+					<ShortName>WoodSteps\WoodStep5.wav</ShortName>
+					<Path>SFX\WoodSteps\WoodStep5_10C4C929.wem</Path>
+				</File>
+				<File Id="517362464" Language="SFX">
+					<ShortName>StoneSteps\StoneStep6.wav</ShortName>
+					<Path>SFX\StoneSteps\StoneStep6_10C4C929.wem</Path>
+				</File>
+				<File Id="574991384" Language="SFX">
+					<ShortName>WoodSteps\WoodStep2.wav</ShortName>
+					<Path>SFX\WoodSteps\WoodStep2_10C4C929.wem</Path>
+				</File>
+				<File Id="583292460" Language="SFX">
+					<ShortName>WoodSteps\WoodStep6.wav</ShortName>
+					<Path>SFX\WoodSteps\WoodStep6_10C4C929.wem</Path>
+				</File>
+				<File Id="638418323" Language="SFX">
+					<ShortName>GrassSteps\GrassStep3.wav</ShortName>
+					<Path>SFX\GrassSteps\GrassStep3_10C4C929.wem</Path>
+				</File>
+				<File Id="657150329" Language="SFX">
+					<ShortName>StoneSteps\StoneStep1.wav</ShortName>
+					<Path>SFX\StoneSteps\StoneStep1_10C4C929.wem</Path>
+				</File>
+				<File Id="700337536" Language="SFX">
+					<ShortName>GrassSteps\GrassStep1.wav</ShortName>
+					<Path>SFX\GrassSteps\GrassStep1_10C4C929.wem</Path>
+				</File>
+				<File Id="722449725" Language="SFX">
+					<ShortName>StoneSteps\StoneStep4.wav</ShortName>
+					<Path>SFX\StoneSteps\StoneStep4_10C4C929.wem</Path>
+				</File>
+				<File Id="762906426" Language="SFX">
+					<ShortName>GrassSteps\GrassStep4.wav</ShortName>
+					<Path>SFX\GrassSteps\GrassStep4_10C4C929.wem</Path>
+				</File>
+				<File Id="767898837" Language="SFX">
+					<ShortName>StoneSteps\StoneStep7.wav</ShortName>
+					<Path>SFX\StoneSteps\StoneStep7_10C4C929.wem</Path>
+				</File>
+				<File Id="775992132" Language="SFX">
+					<ShortName>StoneSteps\StoneStep8.wav</ShortName>
+					<Path>SFX\StoneSteps\StoneStep8_10C4C929.wem</Path>
+				</File>
+				<File Id="1007406188" Language="SFX">
+					<ShortName>WoodSteps\WoodStep1.wav</ShortName>
+					<Path>SFX\WoodSteps\WoodStep1_10C4C929.wem</Path>
+				</File>
+				<File Id="1069473349" Language="SFX">
+					<ShortName>StoneSteps\StoneStep2.wav</ShortName>
+					<Path>SFX\StoneSteps\StoneStep2_10C4C929.wem</Path>
+				</File>
+				<File Id="1071253587" Language="SFX">
+					<ShortName>StoneSteps\StoneStep3.wav</ShortName>
+					<Path>SFX\StoneSteps\StoneStep3_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+			<SwitchGroups>
+				<SwitchGroup Id="1808717673" Name="floorType" ObjectPath="\Switches\Default Work Unit\floorType">
+					<Switches>
+						<Switch Id="2058049674" Name="wood" ObjectPath="\Switches\Default Work Unit\floorType\wood"/>
+						<Switch Id="1216965916" Name="stone" ObjectPath="\Switches\Default Work Unit\floorType\stone"/>
+						<Switch Id="4248645337" Name="grass" ObjectPath="\Switches\Default Work Unit\floorType\grass"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
 		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>

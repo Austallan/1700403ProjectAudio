@@ -1,0 +1,35 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1866025847	footstep			\Default Work Unit\footstep	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1808717673	floorType			\Default Work Unit\floorType	
+
+Switch	ID	Name	Switch Group			Notes
+	1216965916	stone	floorType			
+	2058049674	wood	floorType			
+	4248645337	grass	floorType			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	44771140	StoneStep5	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\StoneSteps\StoneStep5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\StoneStepContainer\StoneStep5		123448
+	109527155	GrassStep5	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\GrassSteps\GrassStep5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\GrassStepContainer\GrassStep5		154280
+	151181638	WoodStep4	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\WoodSteps\WoodStep4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\WoodStepContainer\WoodStep4		120620
+	179137262	GrassStep2	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\GrassSteps\GrassStep2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\GrassStepContainer\GrassStep2		141776
+	180818682	WoodStep7	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\WoodSteps\WoodStep7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\WoodStepContainer\WoodStep7		115716
+	207316730	WoodStep3	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\WoodSteps\WoodStep3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\WoodStepContainer\WoodStep3		98076
+	253273556	GrassStep6	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\GrassSteps\GrassStep6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\GrassStepContainer\GrassStep6		126144
+	430592050	GrassStep7	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\GrassSteps\GrassStep7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\GrassStepContainer\GrassStep7		134480
+	431812448	WoodStep5	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\WoodSteps\WoodStep5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\WoodStepContainer\WoodStep5		114740
+	517362464	StoneStep6	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\StoneSteps\StoneStep6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\StoneStepContainer\StoneStep6		128812
+	574991384	WoodStep2	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\WoodSteps\WoodStep2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\WoodStepContainer\WoodStep2		94156
+	583292460	WoodStep6	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\WoodSteps\WoodStep6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\WoodStepContainer\WoodStep6		104940
+	638418323	GrassStep3	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\GrassSteps\GrassStep3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\GrassStepContainer\GrassStep3		149068
+	657150329	StoneStep1	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\StoneSteps\StoneStep1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\StoneStepContainer\StoneStep1		114864
+	700337536	GrassStep1	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\GrassSteps\GrassStep1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\GrassStepContainer\GrassStep1		146984
+	722449725	StoneStep4	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\StoneSteps\StoneStep4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\StoneStepContainer\StoneStep4		133108
+	762906426	GrassStep4	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\GrassSteps\GrassStep4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\GrassStepContainer\GrassStep4		126144
+	767898837	StoneStep7	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\StoneSteps\StoneStep7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\StoneStepContainer\StoneStep7		121304
+	775992132	StoneStep8	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\StoneSteps\StoneStep8_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\StoneStepContainer\StoneStep8		111648
+	1007406188	WoodStep1	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\WoodSteps\WoodStep1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\WoodStepContainer\WoodStep1		136300
+	1069473349	StoneStep2	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\StoneSteps\StoneStep2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\StoneStepContainer\StoneStep2		114864
+	1071253587	StoneStep3	C:\Users\austi\Documents\4th Year\CMP407\1700403ProjectAudio\1700403ProjectAudio_WwiseProject\.cache\Mac\SFX\StoneSteps\StoneStep3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\foosteps\StoneStepContainer\StoneStep3		128812
+
