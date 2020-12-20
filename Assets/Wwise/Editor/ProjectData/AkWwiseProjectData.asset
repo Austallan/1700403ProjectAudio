@@ -49,8 +49,17 @@ MonoBehaviour:
     ParentPath: Default Work Unit
     guid: c01667a1e519c1469f817205cfc059c4
     GuidInternal: 
-    m_lastTime: -8585942439938189973
-    List: []
+    m_lastTime: -8585932090550929603
+    List:
+    - name: Main
+      guid: 1ca4775281a82b4998983623bde0191b
+      id: 3161908922
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Main
+        ObjectType: 7
+      Path: Default Work Unit\Main
   EventWwu:
   - PhysicalPath: Events\Default Work Unit.wwu
     PathAndIcons:
@@ -59,8 +68,20 @@ MonoBehaviour:
     ParentPath: Default Work Unit
     guid: 3cb48c6a63ef1e41b8ace58780d90f2d
     GuidInternal: 
-    m_lastTime: -8585946803316177885
-    List: []
+    m_lastTime: -8585932090550839573
+    List:
+    - name: footstep
+      guid: b61aacb2aab4a345ab000b711a64524e
+      id: 1866025847
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: footstep
+        ObjectType: 3
+      Path: Default Work Unit\footstep
+      maxAttenuation: 0
+      maxDuration: 1.500318
+      minDuration: 0.301792
   RtpcWwu:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     PathAndIcons:
@@ -89,8 +110,39 @@ MonoBehaviour:
     ParentPath: Default Work Unit
     guid: f90b4a717ebd7d42a26f7b21188c839b
     GuidInternal: 
-    m_lastTime: -8585946803316097655
-    List: []
+    m_lastTime: -8585932099906867802
+    List:
+    - name: floorType
+      guid: 2d90f7cfd25bda4180af484086ee5207
+      id: 1808717673
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: floorType
+        ObjectType: 11
+      Path: Default Work Unit\floorType
+      values:
+      - name: grass
+        guid: 880a3065f4c2114381c7f5b82f9e287e
+        id: 4248645337
+        PathAndIcons:
+        - ElementName: grass
+          ObjectType: 10
+      - name: stone
+        guid: 9d06313e62a3a649942abb62dd88cb34
+        id: 1216965916
+        PathAndIcons:
+        - ElementName: stone
+          ObjectType: 10
+      - name: wood
+        guid: e571b5031e28774497a8ea0ed10752cc
+        id: 2058049674
+        PathAndIcons:
+        - ElementName: wood
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
   TriggerWwu:
   - PhysicalPath: Triggers\Default Work Unit.wwu
     PathAndIcons:

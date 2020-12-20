@@ -8,6 +8,9 @@ public class PlayerMovement : MonoBehaviour
 
     public float speed = 12f;
 
+    private bool soundTime;
+    private float soundTimer = 0.4f;
+
     // Update is called once per frame
     void Update()
     {
@@ -16,6 +19,26 @@ public class PlayerMovement : MonoBehaviour
 
         Vector3 move = transform.right * x + transform.forward * z;
 
-        controller.Move(move * speed * Time.deltaTime);
+        if (soundTime)
+        {
+            if (x == 1 || x == -1 || z == 1 || z == -1)
+            {
+                AkSoundEngine.PostEvent("footstep", this.gameObject);
+
+                soundTime = false;
+                soundTimer = 0.4f;
+            }
+        }
+    
+    if (!soundTime)
+		{
+            soundTimer -= Time.deltaTime;
+            if (soundTimer < 0)
+			{
+                soundTime = true;
+			}
+		}
+
+     controller.Move(move * speed * Time.deltaTime);
     }
 }
